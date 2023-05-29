@@ -1,4 +1,4 @@
-### Hi, I'm Alfredo👋
+### Hi, I'm J Alfredo👋
 ```js
 const ferretisDev = {
   technologies : "web",
